@@ -14,7 +14,7 @@ Ce projet constitue le **projet de fin de formation TSSR**, avec pour objectifs 
 ---
 
 ## 🖥️ Schéma d’architecture
-![Topologie Réseau](./Diagramme%20Topologie.png)
+![Topologie Réseau](Docs/Diagrammes/Diagramme Topologie.png)
 
 ---
 
