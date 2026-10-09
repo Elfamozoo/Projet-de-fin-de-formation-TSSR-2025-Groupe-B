@@ -56,7 +56,7 @@ Ce projet constitue le **projet de fin de formation TSSR**, avec pour objectifs 
 ---
 
 ## 🎯 Livrables attendus
-- Rapport final documenté (PDF) (Docs/PROJET%FINAL%Groupe%2.pdf)
+- Rapport final documenté (PDF) (Docs/PROJET FINAL Groupe 2.pdf)
 - Présentation PowerPoint (soutenance)  
 - Procédures techniques (Word/Markdown)  
 - Configurations (Switch, pfSense, VM)  
