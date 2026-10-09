@@ -6,7 +6,7 @@
 >
 > Le document complet : contexte et cahier des charges, architecture technique, services déployés, stockage et sauvegardes, sécurisation, exploitation, contribution de l'équipe, bilan et annexes techniques.
 >
-> [Télécharger le PDF](Docs/rapport-final-infra-pme-tssr-2025.pdf?raw=true) · [Source du schéma (.drawio)](Docs/Diagrammes/topologie-finale.drawio)
+> [Source du schéma (.drawio)](Docs/Diagrammes/topologie-finale.drawio)
 
 ---
 
