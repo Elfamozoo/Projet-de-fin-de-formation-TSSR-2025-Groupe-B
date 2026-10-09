@@ -47,19 +47,6 @@ Ce projet constitue le **projet de fin de formation TSSR**, avec pour objectifs 
 
 ---
 
-## 📂 Organisation du repository
-```
-TSSR-Projet-Final/
-│
-├── docs/              → Cahier des charges, schémas, procédures
-├── config/            → Configs Switch L3, pfSense, VMware
-├── scripts/           → Scripts de déploiement/administration
-├── livrables/         → Rapport final, slides soutenance
-└── tests/             → Résultats de tests & captures
-```
-
----
-
 ## 👥 Équipe & rôles
 - **Administrateur Système** → Gestion AD, DHCP, fichiers, MDM  
 - **Administrateur Réseau** → Switch L3, VLANs, pfSense, routage  
